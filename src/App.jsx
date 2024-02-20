@@ -18,6 +18,7 @@
 //    <Sidebar/>
 //       <Routes>
 //         <Route>
+            <Route path='/' element={<Dashboard/>} />
 //           <Route path='/Dashboard' element={<Dashboard />} />
 //           <Route path='/Blog' element={<Blog/>} />
 //           <Route path='/CreateBook' element={<CreateBook/>}/>
